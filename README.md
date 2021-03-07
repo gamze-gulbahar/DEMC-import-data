@@ -3,7 +3,7 @@ Data Engineering Masterclass Homework Soru 4
 
 ### On Kosullar
 
-Oncelikle `name.basics.tsv` , `title.principals.tsv`, `title.episode.tsv`, `title.basics.tsv`, `title.akas.tsv`, `title.ratings.tsv` dosyalari ile bu repositorydeki dosyalar ayni dizinde olmali. 
+Oncelikle `name.basics.tsv` , `title.principals.tsv`, `title.episode.tsv`, `title.basics.tsv`, `title.akas.tsv`, `title.ratings.tsv` dosyalari ile bu repositorydeki dosyalar ile ayni dizinde olmali. 
 
 
 ### Calistirma
